@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FreeTV" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#FF6A00</item>
+        <item name="android:windowBackground">#0E0E10</item>
+        <item name="android:statusBarColor">#0E0E10</item>
+        <item name="android:navigationBarColor">#0E0E10</item>
+    </style>
+</resources>
